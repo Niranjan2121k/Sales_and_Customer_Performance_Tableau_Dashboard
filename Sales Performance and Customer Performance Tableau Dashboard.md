@@ -40,6 +40,8 @@ This visualization presents three key performance indicators (**KPIs**) for the 
      - The **orange dot** highlights a **low-performing period** early in the year.
      - The **blue dot** marks a **high-performing period** towards the end of the year.
 
+![](Slide_1.png)
+
 2. **Total Profits** 💰  
    - **$93K** in total profit.  
    - **Up by 14.24% vs PY**, indicating a positive growth trend.  
@@ -47,12 +49,16 @@ This visualization presents three key performance indicators (**KPIs**) for the 
      - The **blue dot** shows a peak in profit.
      - The **orange dot** highlights a **decline or loss** period.
 
+![](Slide_2.png)
+
 3. **Total Quantity Sold** 📦  
    - **12K units sold** throughout the year.  
    - **A strong 26.83% increase from the previous year**.  
    - **Key points:**
      - The **orange dot** represents a **low quantity sales period**.
      - The **blue dot** marks a **high quantity sales peak**.
+
+![](Slide_3.png)
 
 ---
 
@@ -65,7 +71,6 @@ This visualization presents three key performance indicators (**KPIs**) for the 
 
 📌 **Conclusion:** Strong overall performance, but profitability growth should be optimized.
 
-<img width="1192" alt="Screenshot 2025-03-16 at 4 28 31 PM" src="https://github.com/user-attachments/assets/960d5bc2-9880-4288-bd2a-37fb07e73bf1" />
 
 # 📊 Subcategory Sales and Profit Comparison
 
@@ -91,7 +96,7 @@ This visualization provides a comparative analysis of sales and profit performan
 
 This chart is useful for business decisions such as inventory management, discount strategies, and profitability optimization.
 
-<img width="1702" alt="Screenshot 2025-03-16 at 4 19 12 PM" src="https://github.com/user-attachments/assets/5ec468e3-7e5c-4105-847f-4da9b5957491" />
+![](Slide_4.png)
 
 # 📊 Weekly Sales and Profit Trend Analysis
 
@@ -136,11 +141,11 @@ This visualization presents a week-by-week trend analysis of **Sales** and **Pro
 - Focus on improving **profit margins** rather than just increasing sales.
 - Optimize product pricing and discounting strategies to avoid frequent losses.
 
-<img width="1701" alt="Screenshot 2025-03-16 at 4 23 22 PM" src="https://github.com/user-attachments/assets/bcbe3754-2072-4480-95da-40c8a9f460c5" />
+![](Slide_5.png)
 
 # 📊 Sales Performance Dashboard | 2023
 
-<img width="1182" alt="Screenshot 2025-03-16 at 4 17 17 PM" src="https://github.com/user-attachments/assets/278374dc-3404-421e-8185-07c105a568e6" />
+![](Slide_6.png)
 
 # 👥 Customer Dashboard | 2023
 
@@ -185,12 +190,16 @@ This project analyzes **customer behavior, sales distribution, and order trends*
   - **Highest Month**: Marked with a blue dot
   - **Lowest Month**: Marked with an orange dot
 
+![](Slide_7.png)
+
 #### 2. **Total Sales Per Customer**
 - **2023 Average**: $1,058 per customer
 - **Increase**: 10.80% from 2022
 - **Highlights**:
   - **Highest Month**: Blue dot
   - **Lowest Month**: Orange dot
+
+![](Slide_8.png)
 
 #### 3. **Total Orders**
 - **2023 Total**: 1,687 orders
@@ -199,11 +208,11 @@ This project analyzes **customer behavior, sales distribution, and order trends*
   - **Highest Month**: Blue dot
   - **Lowest Month**: Orange dot
 
+![](Slide_9.png)
+
 ### Key Insights
 - All three metrics showed **positive growth trends** in 2023 compared to 2022.
 - Visual emphasis on monthly highs and lows provides opportunities to analyze performance during peak and low periods.
-
-<img width="1188" alt="Screenshot 2025-03-16 at 4 31 50 PM" src="https://github.com/user-attachments/assets/e3f0a828-3be4-4bc9-b711-659ceb6efb7a" />
 
 # 📊 Customers Distribution by Number of Orders
 
@@ -232,7 +241,7 @@ This bar chart represents the **distribution of customers** based on the **numbe
 
 🚀 *This analysis provides a roadmap for customer growth and business expansion in the next financial year!*
 
-<img width="1703" alt="Screenshot 2025-03-16 at 4 33 45 PM" src="https://github.com/user-attachments/assets/201738af-88b0-4690-aa40-87f4b29ca335" />
+![](Slide_10.png)
 
 # 🏆 Top 10 Customers by Profit
 
@@ -260,12 +269,11 @@ This table displays the **top 10 customers** ranked by **profit contribution** i
 
 🚀 *Optimizing customer retention strategies will drive profitability and sustain revenue growth!*
 
-<img width="1693" alt="Screenshot 2025-03-16 at 4 35 05 PM" src="https://github.com/user-attachments/assets/bc078b3b-2b69-4ad6-834b-6247af7a8023" />
+![](Slide_11.png)
 
 # 👥 Customer Dashboard | 2023
 
-<img width="1188" alt="Screenshot 2025-03-16 at 4 17 26 PM" src="https://github.com/user-attachments/assets/4b1254af-0d17-4eb1-9d58-4104d21ce75e" />
-
+![](Slide_12.png)
 
 
 
